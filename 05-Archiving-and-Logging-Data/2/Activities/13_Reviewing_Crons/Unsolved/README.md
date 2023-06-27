@@ -34,7 +34,7 @@
 
     - How does the `-x` option modify the `tar` command?
 
-    - If a directory has `ten` files and the following command is used in it, how many files are being archived?
+    - If a directory has `ten` files and the following command is used in it, how many files are being compressed?
 
       -  `tar cvvWf backups/archive.tar .`
 
