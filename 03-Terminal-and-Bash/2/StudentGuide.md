@@ -639,9 +639,8 @@ There is a command called `grep` that allows us to search within a file or multi
 
     - In the final example, we are showing that `grep` can be used to find the **file name** that contains a specific data point.
 
-    - Specifically, this command only outputs the **file name** where the user of `bob` or `BOB` exist within all TXT files. When this command is run, it will only display the file names that contain `bob` or `BOB`.
+    - Specifically, this command only outputs the **file name** where the file name contains `bob` or `BOB` exists inside of all TXT files. 
 
-**EDITOR: The phrase above "where the user of `bob` or `BOB` exist within all TXT files" doesn't make sense to me in the context of file names.**
 
       - `grep`: The command being run.
 

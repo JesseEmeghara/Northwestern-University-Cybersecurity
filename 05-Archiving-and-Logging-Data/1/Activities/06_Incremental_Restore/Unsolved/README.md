@@ -98,9 +98,9 @@ If you are not already logged on, log into the lab environment using the followi
 
       - For example: `touch patient.0a.txt patient.0b.txt`.
 
-    - Verify the 
+    - Verify the files have been created
 
-    **EDITOR: The above line is incomplete.**
+  
 
       - Run `ls -l`.
 

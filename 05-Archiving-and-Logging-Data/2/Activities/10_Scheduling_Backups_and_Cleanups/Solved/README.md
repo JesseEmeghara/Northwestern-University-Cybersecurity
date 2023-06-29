@@ -40,7 +40,7 @@ In addition to scheduling the above tasks, you should perform regular security s
 
     ```bash
     #!/bin/bash
-    lynis audit sysem --tests-from-group malware,authentication,networking,storage,filesystems >> /tmp/lynis.partial_scan.log
+    lynis audit --tests-from-group malware,authentication,networking,storage,filesystems >> /tmp/lynis.partial_scan.log
     ```
 
 - Then add both `lynis` scripts to the `root` crontab to create the tasks.

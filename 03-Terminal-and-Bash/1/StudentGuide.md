@@ -432,9 +432,8 @@ The `<file>` or `<location>` can be indicated with an absolute or relative path 
 
     - We will use the move command. Run the following: 
 
-    **EDITOR: Are the blank spaces in the following move command an error?**
     
-      `mv /03-instructor/day1/pathnav_demonstration/security_evidence/Case1/Web_logs   /03-instructor/day1/pathnav_demonstration/security_evidence/Case2/`
+      `mv /03-instructor/day1/pathnav_demonstration/security_evidence/Case1/Web_logs /03-instructor/day1/pathnav_demonstration/security_evidence/Case2/`
 
       - This command will move the `weblogs` file  from the `Case1` directory into the `Case2` directory. 
     
@@ -443,10 +442,8 @@ The `<file>` or `<location>` can be indicated with an absolute or relative path 
  3. Next, your manager asked you to make a copy of the file `Web_logs` from `Case2` and place it in the `security_evidence` folder.
  
     - We will use the copy command. Run the following:  
-
-     **EDITOR: Are the blank spaces in the following move command an error?**
     
-      `cp /03-instructor/day1/pathnav_demonstration/security_evidence/Case2/Web_logs   /03-instructor/day1/pathnav_demonstration/security_evidence/`
+      `cp /03-instructor/day1/pathnav_demonstration/security_evidence/Case2/Web_logs /03-instructor/day1/pathnav_demonstration/security_evidence/`
 
       - This will make a copy of the the `Web_logs` file from the `Case2` directory and place it in the `security_evidence` directory. 
     

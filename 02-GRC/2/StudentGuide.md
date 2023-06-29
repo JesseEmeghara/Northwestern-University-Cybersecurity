@@ -307,9 +307,7 @@ Analysts use exposure factor and asset value to calculate the number they're act
 
   - **SLE** is the estimated cost each time the risk occurs. If it happens twice, the total cost would be twice the SLE.
 
-- **ALE** is the metric determining the cost of a risk reoccurring.
-
-**EDITOR: Are lines 308 and 310 correct? 308 seems to be bordering on the concept of ALE since it is moving beyond single occurrences.**
+- **ALE** is the expected financial loss for an asset due to a risk over a one-year period.
 
   - It is calculated as: ALE = ARO x SLE, where **ALE** is annual loss expectancy, **ARO** is annual rate of occurrence, and **SLE** is single loss expectancy.
 

@@ -458,8 +458,6 @@ One last major consideration for disaster recovery is having alternate sites to 
 
 - [Activity File: Disaster Recovery Planning](./Activities/10_DR_Planning/README.md)
 
-**EDITOR: The "Audit Procedures" activity is not discussed in this document.**
-
 ### 11. Activity Review: Disaster Recovery Planning for GeldCorp Activity 
 
 ### 12. Wrap-Up and Summary
