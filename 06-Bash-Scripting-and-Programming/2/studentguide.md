@@ -490,11 +490,11 @@ Syntax breakdown:
 
 ### 02. Variables and If Statements
 
-- [Variables and If Statements Activity](Activities/03_STU_Var_and_if/Unsolved/Readme.md)
+- [Lists and Loops Activity](Activities/06_STU_Lists_and_Loops/Unsolved/Readme.md)
 
 ### 03. Variables and If Statements Review
 
-- [Variables and If Statements Solved](Activities/03_STU_Var_and_if/Solved/Readme.md)
+- [Solution Guide](Activities/06_STU_Lists_and_Loops/Solved/Readme.md)
 
 ### 04. Lists and Loops (0:20)
 
